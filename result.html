@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Prediction Result</title>
+
+    <link rel="stylesheet"
+    href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+<body>
+
+    <div class="container result">
+
+        <h1>Prediction Result</h1>
+
+        <p>Your Estimated Annual Salary</p>
+
+        <h2>₹{{ "{:,.0f}".format(salary) }}</h2>
+
+        <p>
+            Monthly Salary:
+            ₹{{ "{:,.0f}".format(monthly) }}
+        </p>
+
+        <hr>
+
+        <h3>Employee Details</h3>
+
+        <p>Experience: {{ experience }} Years</p>
+
+        <p>Education: {{ education }}</p>
+
+        <p>Job Role: {{ job_role }}</p>
+
+        <p>Location: {{ location }}</p>
+
+        <br>
+
+        <a href="/">Predict Again</a>
+
+    </div>
+
+</body>
+
+</html>

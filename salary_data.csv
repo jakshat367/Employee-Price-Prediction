@@ -1,0 +1,21 @@
+experience,education,job_role,location,company_size,salary
+0,High School,Junior Developer,Kota,Small,180000
+1,Bachelors,Software Developer,Delhi,Medium,300000
+2,Bachelors,Software Developer,Bangalore,Large,450000
+3,Masters,Data Analyst,Bangalore,Medium,550000
+4,Bachelors,Software Developer,Delhi,Large,600000
+5,Masters,Data Scientist,Bangalore,Large,850000
+6,Masters,Data Scientist,Mumbai,Large,950000
+7,PhD,Data Scientist,Bangalore,Large,1200000
+2,Bachelors,Web Developer,Kota,Small,350000
+3,Bachelors,Web Developer,Delhi,Medium,450000
+5,Masters,Project Manager,Mumbai,Large,900000
+8,Masters,Project Manager,Delhi,Large,1300000
+1,Bachelors,Data Analyst,Kota,Small,280000
+4,Masters,Data Analyst,Mumbai,Medium,650000
+6,Bachelors,Software Developer,Bangalore,Large,950000
+9,PhD,Data Scientist,Mumbai,Large,1500000
+3,Bachelors,Web Developer,Bangalore,Medium,500000
+7,Masters,Project Manager,Bangalore,Large,1150000
+2,High School,Junior Developer,Kota,Small,250000
+10,PhD,Data Scientist,Delhi,Large,1700000
